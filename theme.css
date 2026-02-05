@@ -38,6 +38,24 @@
     align-items: center;
 }
 
-.nameInput{
-    width: 200px;
+.nameInput {
+    width: 300px;
+}
+
+.div1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.submit {
+    padding-inline: 10px;
+    font-size: 20px;
+    padding-block: 5px;
+    border-radius: 7px;
+    background-color: #746bde;
+    border: none;
+    align-items: center;
+    color: white;
+    width: 100%;
 }
